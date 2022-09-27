@@ -1,5 +1,5 @@
 # learn-anything
-List of links to posts/articles that have helped me learn anything
+List of links to posts/articles that have helped me learn anything.
 
 ## CS
 
@@ -14,8 +14,12 @@ List of links to posts/articles that have helped me learn anything
 
 ### Kernel
 
-- [A gentle intro to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
+- [A gentle intro to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/).
 
 ### Onboarding
 
-- [What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com/writing/onboarding/)
+- [What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com/writing/onboarding/).
+
+### Vision
+
+- [How QR codes work](https://typefully.com/DanHollick/qr-codes-T7tLlNi).
